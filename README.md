@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, Vue, and Inertia**
+- 🌱 I’m Software Developer
 
 - 👨‍💻 All of my projects are available at [https://ifejinity.github.io/Portfoliov5](https://ifejinity.github.io/Portfoliov5)
 

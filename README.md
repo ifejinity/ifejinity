@@ -9,7 +9,7 @@
 
 - 🌱 I’m Software Developer
 
-- 👨‍💻 All of my projects are available at [https://ifejinity.github.io/Portfoliov5](https://ifejinity.github.io/Portfoliov5)
+- 👨‍💻 All of my projects are available at [Jeffrey Lonzanida](https://jefflonzanida.vercel.app)
 
 - 📫 How to reach me **mrlonzanida08@gmail.com**
 

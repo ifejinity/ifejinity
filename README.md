@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ifejinity&margin-w=15&margin-h=15&column=4" alt="ifejinity trophies" />
+    <img src="[https://github-profile-trophy.vercel.app/?username=ifejinity&margin-w=15&margin-h=15&column=4](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15)" alt="ifejinity trophies" />
   </a>
 </p>
 
